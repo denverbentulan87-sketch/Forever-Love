@@ -30,8 +30,8 @@ Forever Love is an interactive digital Valentine's Day card built with modern we
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iging/forever-love.git
-   cd forever-love
+   git clone https://github.com/denverbentulan87-sketch/Forever-Love.git
+   cd Forever-Love
    ```
 
 2. Install dependencies:
@@ -99,4 +99,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Animated with [Framer Motion](https://www.framer.com/motion/)
 - Icons by [Lucide](https://lucide.dev/)
 
+Made by: Denver Bentulan
 ---
